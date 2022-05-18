@@ -6,5 +6,5 @@ include_directories("include/")
 include_directories("libcbdetect/include/")
 
 add_subdirectory(samples)
-# add_subdirectory(test)
+add_subdirectory(test)
 add_subdirectory(libcbdetect)
